@@ -1,13 +1,50 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-size: 16px;
+  background-color: var(--color-primary);
+  font-family: 'Montserrat', sans-serif;
+  overflow-x: hidden;
+  max-width: 1540px;
+  margin: auto;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --color-primary: #FFFFFF;
+  --color-secondary: #E5E5E5;
+  --color-tertiary: #FAFAFA;
+  --color-border: #ECEFF1;
+  --font1: 'Montserrat', sans-serif;
+  --font2: 'Syncopate', sans-serif;
+}
+
+.app__container{
+  margin: 1.93rem 2.25rem ;
+}
+
+.app__link{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  margin-bottom: 3rem;
+}
+
+.p__Syncopate{
+  font-weight: bold;
+  font-family: var(--font2);
+}
+
+.h2__montserrat{
+  font-family: var(--font1);
+  font-size: 2rem;
+  font-weight: 300;
 }

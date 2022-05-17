@@ -1,0 +1,28 @@
+.app__projects-container {
+    border-bottom: 2px solid var(--color-border);
+
+    .app__projects-slides {
+        display: flex;
+        justify-content: space-between;
+        gap: 5rem;
+
+        .app__projects-slides-img {
+            // max-height: 701px;
+            // max-height: 447px;
+            // width: 100%;
+            list-style: none;
+            aspect-ratio: 2/1;
+
+            img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+        }
+    }
+
+    .carrosel-text {
+        font-family: var(--font2);
+        width: 100%;
+    }
+}

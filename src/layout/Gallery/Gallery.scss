@@ -1,0 +1,11 @@
+.app__gallery {
+    display: flex;
+    gap: 4rem;
+    flex-direction: column;
+    align-items: center;
+
+    .app__gallery-img {
+        width: 100%;
+    }
+
+}
