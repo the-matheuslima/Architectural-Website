@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/architectural-website/static/css/main.4ec3b006.css",
+    "main.js": "/architectural-website/static/js/main.c4d595fd.js",
+    "static/media/gallery.png": "/architectural-website/static/media/gallery.a4e402fc81442067a7e5.png",
+    "static/media/grid-img.png": "/architectural-website/static/media/grid-img.39a87c62dc59934cd44e.png",
+    "static/media/photoB.png": "/architectural-website/static/media/photoB.81bef1df7f4f597ad4f8.png",
+    "static/media/carrosel3.svg": "/architectural-website/static/media/carrosel3.13f433598fdab2989185465ee93f51b3.svg",
+    "static/media/photoA.png": "/architectural-website/static/media/photoA.cd35f0e5243f54866460.png",
+    "static/media/we-build-magic.svg": "/architectural-website/static/media/we-build-magic.ba6fe5689dcb302515de9447090d4848.svg",
+    "static/media/photoC.png": "/architectural-website/static/media/photoC.5da4bbcec7f24a5ddfa0.png",
+    "static/media/clients-img.png": "/architectural-website/static/media/clients-img.d7d43c7e0670498905b1.png",
+    "static/media/carrosel2.svg": "/architectural-website/static/media/carrosel2.9f0458ec3d9664321080ac701ed4ae54.svg",
+    "static/media/dribbble-line.svg": "/architectural-website/static/media/dribbble-line.6a1423e171fa2626e3bf50a48d95df8f.svg",
+    "static/media/instagram.svg": "/architectural-website/static/media/instagram.8a29035ef6531e50f54e27571ddd3747.svg",
+    "static/media/twitter.svg": "/architectural-website/static/media/twitter.e9da182ea89455ee8ce731f857f881b7.svg",
+    "static/media/settings.svg": "/architectural-website/static/media/settings.185d77bc24bec4ef687c6b10b0d1e49f.svg",
+    "static/media/facebook.svg": "/architectural-website/static/media/facebook.d32e3fc8b1179a6e3db4592f37e0f653.svg",
+    "index.html": "/architectural-website/index.html",
+    "static/media/send_black.svg": "/architectural-website/static/media/send_black.56a749104b9cd04521b51783fd4f6628.svg",
+    "main.4ec3b006.css.map": "/architectural-website/static/css/main.4ec3b006.css.map",
+    "main.c4d595fd.js.map": "/architectural-website/static/js/main.c4d595fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ec3b006.css",
+    "static/js/main.c4d595fd.js"
+  ]
+}
